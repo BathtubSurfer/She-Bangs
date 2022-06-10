@@ -1,2 +1,2 @@
-@py C:\Users\Bathtub\MyPyScripts\SheBangs.py %*
+@py C:\Users\USERNAME\PATH_TO_FILE\SheBangs.py %*
 @pause
